@@ -1,0 +1,2 @@
+interrupts.c.o: interrupts.c /opt/mcb32tools/include/pic32mx.h project.h
+interrupts.c /opt/mcb32tools/include/pic32mx.h project.h :

@@ -1,0 +1,2 @@
+player.c.o: player.c project.h
+player.c project.h :

@@ -1,0 +1,2 @@
+menu.c.o: menu.c project.h pic32mx.h
+menu.c project.h pic32mx.h :

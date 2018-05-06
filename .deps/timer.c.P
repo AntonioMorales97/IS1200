@@ -1,0 +1,2 @@
+timer.c.o: timer.c /opt/mcb32tools/include/pic32mx.h project.h
+timer.c /opt/mcb32tools/include/pic32mx.h project.h :
